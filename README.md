@@ -59,16 +59,16 @@ Pengguna yang dapat memakai sistem ini adalah User.
   <tbody>
     <tr>
       <td width="33%">
-        <h5>Login Form</h5>
-        <img src="assets/img/login_page.jpg"><br>
+        <h5>Tampilan Awal</h5>
+        <img src="assets/1.png"><br>
       </td>
       <td width="33%">
-        <h5>Form Tambah Pegawai</h5>
-        <img src="assets/img/pegawai_page.jpg">
+        <h5>Beranda Pemasukan</h5>
+        <img src="assets/2.png">
       </td>
       <td width="33%">
-        <h5>Form Detail Pegawai</h5>
-        <img src="assets/img/detail_pegawai_page.jpg">
+        <h5>Beranda Pengeluaran</h5>
+        <img src="assets/3.png">
       </td>
     </tr>
   </tbody>
