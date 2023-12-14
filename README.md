@@ -49,9 +49,10 @@ Pengguna yang dapat memakai sistem ini adalah User.
 ## 👨‍💻 Skenario Kebutuhan Pengguna
 ### User
 <ol>
-  <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis tortor dictum</li>
-  <li>Semper quam ut, vestibulum nisi. Fusce posuere erat vitae sodales tincidunt</li>
-  <li>Duis rhoncus orci nec nisi fringilla, vitae aliquam tellus facilisis</li>
+  <li>Dapat Melihat Pemasukkan Dana Pengguna</li>
+  <li>Dapat melihat Pengeluaran Dana Pengguna</li>
+  <li>Berguna Untuk Mengatur Pengeluaran Dana Pengguna</li>
+  <li>Dapat Melihat Saldo</li>
 </ol>
 
 ## 🖼️ Screenshot Aplikasi
