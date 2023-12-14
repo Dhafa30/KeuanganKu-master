@@ -1,0 +1,63 @@
+name: keuanganku
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  smooth_page_indicator: 1.0.0
+  cupertino_icons: 1.0.2
+  fl_chart: 0.65.0
+  intl: 0.18.1 
+  sqflite: 2.3.0
+  path_provider: 2.1.1
+  path: 1.8.3
+  flutter_svg: ^0.22.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/getting_started/keuanganku_onboarding_image.png
+    - assets/images/getting_started/keuanganku_splashscreen_2.png
+    - assets/icons/wallet.svg
+    - assets/icons/wallet_item.svg
+    - assets/icons/bank_item.svg
+    - assets/icons/statistik.svg
+    - assets/icons/distribusi.svg
+
+  fonts:
+    - family: Quicksand_Medium
+      fonts:
+        - asset: assets/fonts/Quicksand-Medium.ttf
+    - family: Quicksand_Bold
+      fonts:
+        - asset: assets/fonts/Quicksand-Bold.ttf
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+    - family: Inter_Bold
+      fonts:
+        - asset: assets/fonts/Inter-Bold.ttf
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+    - family: Inter_Medium
+      fonts:
+        - asset: assets/fonts/Inter-Medium.ttf
+    - family: OpenSans_SemiBold
+      fonts:
+        - asset: assets/fonts/OpenSans-SemiBold.ttf
+    - family: OpenSans_Bold
+      fonts:
+        - asset: assets/fonts/OpenSans-Bold.ttf
